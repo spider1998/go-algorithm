@@ -7,3 +7,5 @@
 ## *linked_list(链表)*
 
   reverse.go  链表的逆序
+  
+  distinct.go 无序链表去重
