@@ -9,3 +9,5 @@
   reverse.go  链表的逆序
   
   distinct.go 无序链表去重
+
+  link_plus.go 单链表所代表的和相加
