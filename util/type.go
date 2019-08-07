@@ -28,4 +28,3 @@ func PrintNode(info string, node *LNode) {
 	}
 	fmt.Println()
 }
-
